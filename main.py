@@ -38,7 +38,7 @@ def check_duplicate(link):
         rsslinks = f.read().splitlines()
         return link in rsslinks
 
-def generate_feed(loading=False, column=False):
+def generate_feed(loading=False):
 
     feed_objects = []
     entire_feed = []
