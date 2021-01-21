@@ -13,7 +13,7 @@ Prints every thing from your RSS feeds in links.txt from the last 10 hours.
 
 • googleapiclient.discovery
 
-## How to Use
+## How to Use (MANUAL UNDER CONSTRUCTION)
 
 1. Have a "links.txt" that contains a link to each RSS feed line by line.
 
